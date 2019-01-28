@@ -2,7 +2,7 @@ FROM debian:9.6-slim
 
 LABEL "com.github.actions.name"="GitHub Action for Slack"
 LABEL "com.github.actions.description"="Outputs a message to Slack."
-LABEL "com.github.actions.icon"="hash"
+LABEL "com.github.actions.icon"="slack"
 LABEL "com.github.actions.color"="red"
 
 LABEL "repository"="https://github.com/Ilshidur/actions"
